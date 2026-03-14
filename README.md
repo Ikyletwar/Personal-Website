@@ -1,150 +1,150 @@
-# Hizkia Letwar — Personal Portfolio
+# Hizkia Letwar — Portofolio Pribadi
 
 > **"Elegance Is My Philosophy"**
 
-A modern, elegant, and fully responsive single-page portfolio website built with pure HTML, CSS, and JavaScript. Designed with a mobile-first approach and featuring smooth animations, lazy loading, and accessibility best practices.
+Sebuah website portofolio satu halaman yang modern, elegan, dan sepenuhnya responsif. Dibangun dengan HTML, CSS, dan JavaScript murni. Didesain dengan pendekatan mobile-first dan dilengkapi animasi smooth, lazy loading, serta praktik aksesibilitas terbaik.
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/id/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/id/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/id/docs/Web/JavaScript)
+[![License: MIT](https://img.shields.io/badge/Lisensi-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
 
-## 📋 Table of Contents
+## 📋 Daftar Isi
 
-- [About](#-about)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Design Philosophy](#-design-philosophy)
-- [Sections Overview](#-sections-overview)
-- [Getting Started](#-getting-started)
-- [File Structure](#-file-structure)
-- [Customization](#-customization)
+- [Tentang](#-tentang)
+- [Fitur](#-fitur)
+- [Teknologi](#-teknologi)
+- [Filosofi Desain](#-filosofi-desain)
+- [Ringkasan Bagian](#-ringkasan-bagian)
+- [Memulai](#-memulai)
+- [Struktur File](#-struktur-file)
+- [Kustomisasi](#-kustomisasi)
 - [Deployment](#-deployment)
-- [Browser Compatibility](#-browser-compatibility)
-- [Performance](#-performance)
-- [Accessibility](#-accessibility)
-- [Author](#-author)
-- [License](#-license)
+- [Kompatibilitas Browser](#-kompatibilitas-browser)
+- [Performa](#-performa)
+- [Aksesibilitas](#-aksesibilitas)
+- [Penulis](#-penulis)
+- [Lisensi](#-lisensi)
 
 ---
 
-## 🙋‍♂️ About
+## 🙋‍♂️ Tentang
 
-This is the official personal portfolio website of **Hizkia Letwar**, a student at **SMK Negeri 1 Maluku Tengah** majoring in **Telecommunication and Computer Network Engineering (TJKT)** and serving as an **OSIS IT Department member**.
+Ini adalah website portofolio pribadi resmi milik **Hizkia Letwar**, seorang siswa di **SMK Negeri 1 Maluku Tengah** jurusan **Teknik Jaringan Komputer dan Telekomunikasi (TJKT)** dan menjabat sebagai **Anggota OSIS Bidang IT**.
 
-The website showcases a unique approach to web development called **"Vibe Coding"** — an AI-assisted development methodology where natural language ideas are transformed into functional code, allowing developers to focus on creativity and problem-solving.
+Website ini menampilkan pendekatan unik dalam pengembangan web yang disebut **"Vibe Coding"** — sebuah metodologi pengembangan berbantuan AI di mana ide dalam bahasa alami diubah menjadi kode yang berfungsi, memungkinkan developer fokus pada kreativitas dan pemecahan masalah.
 
-### Key Highlights
+### Highlight Utama
 
-| Aspect | Details |
-|--------|---------|
-| **Name** | Hizkia Letwar |
-| **School** | SMK Negeri 1 Maluku Tengah |
-| **Major** | TJKT (Telecommunication & Computer Network Engineering) |
-| **Role** | OSIS IT Department Member |
-| **Focus** | AI Engineering, Web Development |
-| **Philosophy** | "Elegance Is My Philosophy" |
-| **Development Style** | Vibe Coding (AI-Assisted) |
-
----
-
-## ✨ Features
-
-### Visual & Interactive
-
-- 🎨 **Dark Theme** — Elegant black background with subtle gradient overlays
-- 🌊 **Glassmorphism Navigation** — Frosted glass effect navbar with backdrop blur
-- ⌨️ **Typewriter Effect** — Dynamic text cycling through multiple phrases
-- 📱 **Fully Responsive** — Mobile-first design with breakpoints for all screen sizes
-- 🎭 **Scroll Animations** — Smooth reveal animations as you scroll
-- 🚀 **Lazy Loading** — Sections load progressively as they enter viewport
-- 🎯 **Smooth Scrolling** — Native smooth scroll behavior
-- 🔄 **Hover Effects** — Subtle transformations on interactive elements
-
-### Navigation
-
-- 📱 **Mobile Hamburger Menu** — Collapsible navigation for small screens
-- 🔗 **Anchor Links** — Smooth scroll to sections (About, Projects, Tools, Contact)
-- 📍 **Sticky Header** — Navigation bar with scroll-based visibility
-- ♿ **ARIA Labels** — Full accessibility support for screen readers
-
-### Performance
-
-- ⚡ **Zero Dependencies** — No external frameworks or libraries (except fonts)
-- 🎯 **Optimized CSS** — CSS custom properties for efficient theming
-- 🧠 **Intersection Observer** — Efficient scroll-triggered animations
-- 🚫 **Reduced Motion Support** — Respects user's motion preferences
-- 📦 **Single File** — Everything in one HTML file for fast loading
+| Aspek | Detail |
+|-------|--------|
+| **Nama** | Hizkia Letwar |
+| **Sekolah** | SMK Negeri 1 Maluku Tengah |
+| **Jurusan** | TJKT (Teknik Jaringan Komputer & Telekomunikasi) |
+| **Jabatan** | Anggota OSIS Bidang IT |
+| **Fokus** | AI Engineering, Web Development |
+| **Filosofi** | "Elegance Is My Philosophy" |
+| **Gaya Development** | Vibe Coding (Berbantuan AI) |
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Fitur
 
-| Technology | Purpose |
-|------------|---------|
-| **HTML5** | Semantic structure and content |
-| **CSS3** | Styling with custom properties, flexbox, grid |
-| **JavaScript (Vanilla)** | Interactive features and animations |
-| **Google Fonts** | Inter font family for typography |
-| **SVG** | Inline icons and graphics |
+### Visual & Interaktif
 
-### CSS Features Used
+- 🎨 **Tema Gelap** — Latar belakang hitam elegan dengan overlay gradient halus
+- 🌊 **Glassmorphism Navigation** — Navbar efek kaca buram dengan backdrop blur
+- ⌨️ **Efek Mesin Ketik** — Teks dinamis yang berganti otomatis
+- 📱 **Sepenuhnya Responsif** — Desain mobile-first dengan breakpoint untuk semua ukuran layar
+- 🎭 **Animasi Scroll** — Animasi reveal smooth saat scroll
+- 🚀 **Lazy Loading** — Bagian dimuat secara progresif saat masuk viewport
+- 🎯 **Smooth Scrolling** — Perilaku scroll smooth native
+- 🔄 **Efek Hover** — Transformasi halus pada elemen interaktif
 
-- **Custom Properties (CSS Variables)** — Centralized theming system
-- **Flexbox** — Layout management
-- **CSS Grid** — Complex grid layouts
-- **Media Queries** — Responsive breakpoints
-- **CSS Animations** — Keyframe animations
-- **Transitions** — Smooth state changes
-- **Backdrop Filter** — Glassmorphism effects
-- **Transform** — 2D/3D transformations
-- **Calc()** — Dynamic calculations
+### Navigasi
 
-### JavaScript Features Used
+- 📱 **Menu Hamburger Mobile** — Navigasi collapsible untuk layar kecil
+- 🔗 **Anchor Links** — Scroll smooth ke bagian (Tentang, Proyek, Tools, Kontak)
+- 📍 **Header Sticky** — Navigasi dengan visibilitas berbasis scroll
+- ♿ **Label ARIA** — Dukungan aksesibilitas penuh untuk screen reader
 
-- **Intersection Observer API** — Scroll-triggered animations
-- **Request Animation Frame** — Smooth scroll handling
-- **DOM Manipulation** — Dynamic content updates
-- **Event Listeners** — User interaction handling
-- **SetTimeout** — Typewriter effect timing
-- **MatchMedia** — Reduced motion detection
+### Performa
+
+- ⚡ **Nol Dependensi** — Tanpa framework atau library eksternal (kecuali font)
+- 🎯 **CSS Teroptimasi** — Custom properties CSS untuk theming efisien
+- 🧠 **Intersection Observer** — Animasi scroll-triggered yang efisien
+- 🚫 **Dukungan Reduced Motion** — Menghormati preferensi motion pengguna
+- 📦 **Single File** — Semua dalam satu file HTML untuk pemuatan cepat
 
 ---
 
-## 🎨 Design Philosophy
+## 🛠️ Teknologi
 
-### Core Principles
+| Teknologi | Tujuan |
+|-----------|--------|
+| **HTML5** | Struktur semantik dan konten |
+| **CSS3** | Styling dengan custom properties, flexbox, grid |
+| **JavaScript (Murni)** | Fitur interaktif dan animasi |
+| **Google Fonts** | Font family Inter untuk tipografi |
+| **SVG** | Icon dan grafis inline |
+
+### Fitur CSS yang Digunakan
+
+- **Custom Properties (Variabel CSS)** — Sistem theming terpusat
+- **Flexbox** — Manajemen layout
+- **CSS Grid** — Layout grid kompleks
+- **Media Queries** — Breakpoint responsif
+- **Animasi CSS** — Animasi keyframe
+- **Transisi** — Perubahan state smooth
+- **Backdrop Filter** — Efek glassmorphism
+- **Transform** — Transformasi 2D/3D
+- **Calc()** — Perhitungan dinamis
+
+### Fitur JavaScript yang Digunakan
+
+- **Intersection Observer API** — Animasi trigger scroll
+- **Request Animation Frame** — Penanganan scroll smooth
+- **Manipulasi DOM** — Update konten dinamis
+- **Event Listeners** — Penanganan interaksi pengguna
+- **SetTimeout** — Timing efek mesin ketik
+- **MatchMedia** — Deteksi reduced motion
+
+---
+
+## 🎨 Filosofi Desain
+
+### Prinsip Inti
 
 ```
 "Elegance Is My Philosophy"
 ```
 
-The design is built around three core principles:
+Desain dibangun di atas tiga prinsip inti:
 
-1. **Clean UI** — Minimalist design with purposeful elements
-2. **Elegant Functions** — Every interaction feels smooth and intentional
-3. **Thoughtful Features** — Each feature serves a clear purpose
+1. **UI Bersih** — Desain minimalis dengan elemen yang memiliki tujuan
+2. **Fungsi Elegan** — Setiap interaksi terasa smooth dan disengaja
+3. **Fitur Thoughtful** — Setiap fitur memiliki tujuan jelas
 
-### Color Palette
+### Palet Warna
 
-| Variable | Value | Usage |
-|----------|-------|-------|
-| `--bg` | `#000000` | Main background |
-| `--bg-elevated` | `#0a0a0b` | Elevated surfaces |
-| `--fg` | `#F5F5F7` | Primary text |
-| `--fg-secondary` | `#d1d1d6` | Secondary text |
-| `--muted` | `#86868b` | Muted text |
-| `--muted-secondary` | `#6e6e73` | Deep muted text |
-| `--accent` | `rgba(255, 255, 255, 0.04)` | Accent backgrounds |
-| `--accent-hover` | `rgba(255, 255, 255, 0.08)` | Hover states |
-| `--border` | `rgba(255, 255, 255, 0.06)` | Subtle borders |
-| `--border-hover` | `rgba(255, 255, 255, 0.12)` | Hover borders |
+| Variabel | Nilai | Penggunaan |
+|----------|-------|------------|
+| `--bg` | `#000000` | Latar utama |
+| `--bg-elevated` | `#0a0a0b` | Permukaan elevated |
+| `--fg` | `#F5F5F7` | Teks primer |
+| `--fg-secondary` | `#d1d1d6` | Teks sekunder |
+| `--muted` | `#86868b` | Teks muted |
+| `--muted-secondary` | `#6e6e73` | Teks muted dalam |
+| `--accent` | `rgba(255, 255, 255, 0.04)` | Latar accent |
+| `--accent-hover` | `rgba(255, 255, 255, 0.08)` | State hover |
+| `--border` | `rgba(255, 255, 255, 0.06)` | Border halus |
+| `--border-hover` | `rgba(255, 255, 255, 0.12)` | Border hover |
 
-### Typography Scale
+### Skala Tipografi
 
-| Variable | Mobile | Desktop |
+| Variabel | Mobile | Desktop |
 |----------|--------|---------|
 | `--text-xs` | 0.6875rem | 0.75rem |
 | `--text-sm` | 0.8125rem | 0.875rem |
@@ -155,9 +155,9 @@ The design is built around three core principles:
 | `--text-3xl` | 1.75rem | 3rem |
 | `--text-hero` | 2.25rem | 5rem |
 
-### Spacing System
+### Sistem Spasi
 
-All spacing follows a consistent scale:
+Semua spasi mengikuti skala konsisten:
 
 - `--space-xs`: 4px
 - `--space-sm`: 8px
@@ -176,150 +176,151 @@ All spacing follows a consistent scale:
 - `--radius-lg`: 20px
 - `--radius-xl`: 28px
 
-### Animation Timing
+### Timing Animasi
 
-| Variable | Value | Usage |
-|----------|-------|-------|
-| `--duration-fast` | 150ms | Quick interactions |
-| `--duration-base` | 250ms | Standard transitions |
-| `--duration-slow` | 400ms | Smooth animations |
-| `--duration-slower` | 600ms | Complex sequences |
+| Variabel | Nilai | Penggunaan |
+|----------|-------|------------|
+| `--duration-fast` | 150ms | Interaksi cepat |
+| `--duration-base` | 250ms | Transisi standar |
+| `--duration-slow` | 400ms | Animasi smooth |
+| `--duration-slower` | 600ms | Urutan kompleks |
 
-**Easing Functions:**
+**Fungsi Easing:**
 - `--ease-out`: `cubic-bezier(0.16, 1, 0.3, 1)`
 - `--ease-in-out`: `cubic-bezier(0.65, 0, 0.35, 1)`
 
 ---
 
-## 📑 Sections Overview
+## 📑 Ringkasan Bagian
 
-### 1. Navigation
-- Fixed position header with glassmorphism effect
-- Logo (HL initials)
-- Mobile hamburger menu
-- Navigation links: About, Projects, Tools, Contact
+### 1. Navigasi
+- Header posisi fixed dengan efek glassmorphism
+- Logo (inisial HL)
+- Menu hamburger mobile
+- Link navigasi: Tentang, Proyek, Tools, Kontak
 
-### 2. Hero Section
-- Overline text with decorative element
-- Main title with animated span
-- Typewriter effect with rotating phrases:
+### 2. Bagian Hero
+- Teks overline dengan elemen dekoratif
+- Judul utama dengan span animasi
+- Efek mesin ketik dengan frase berganti:
   - "Elegance Is My Philosophy"
   - "Vibe Coding Enthusiast"
   - "AI-Assisted Developer"
   - "Problem Solver"
   - "Future AI Engineer"
-- Subtitle description
-- CTA buttons: "Lihat Proyek" and "Hubungi Aku"
-- Scroll indicator (desktop only)
+- Deskripsi subtitle
+- Tombol CTA: "Lihat Proyek" dan "Hubungi Aku"
+- Indikator scroll (hanya desktop)
 
-### 3. Bio/About Section
-- Two-column layout (desktop)
-- Section label and heading
-- Three paragraphs of biographical content
-- Details grid with:
-  - School
-  - Major
-  - Role
-  - Focus area
+### 3. Bagian Bio/Tentang
+- Layout dua kolom (desktop)
+- Label dan heading bagian
+- Tiga paragraf konten biografi
+- Grid detail dengan:
+  - Sekolah
+  - Jurusan
+  - Peran
+  - Fokus
 
-### 4. Philosophy Section
-- Centered quote card
-- Gradient text effect
-- Description text
+### 4. Bagian Filosofi
+- Kartu quote di tengah
+- Efek text gradient
+- Teks deskripsi
 
-### 5. Projects Section
-- Section header
-- Featured project card (SIRA - Sistem Informasi Razia Siswa)
-  - Badge indicator
-  - Title and subtitle
-  - Description
-  - Feature list with checkmarks
-  - Technology tags
-- Project grid with additional cards
+### 5. Bagian Proyek
+- Header bagian
+- Kartu proyek unggulan (SIRA - Sistem Informasi Razia Siswa)
+  - Indikator badge
+  - Judul dan subtitle
+  - Deskripsi
+  - Daftar fitur dengan checkmark
+  - Tag teknologi
+- Grid proyek dengan kartu tambahan
 
-### 6. Tools Section
-- Grid layout of AI tools used:
+### 6. Bagian Tools
+- Grid layout tools AI yang digunakan:
   - Trae AI
   - ChatGPT
   - Gemini
   - Qwen
   - Qwen Code CLI
 
-### 7. Inspiration Section
-- Mentor card featuring "Pak Bahy"
-- Avatar placeholder
-- Name, role, and description
+### 7. Bagian Inspirasi
+- Kartu mentor menampilkan "Pak Bahy"
+- Placeholder avatar
+- Nama, peran, dan deskripsi
 
-### 8. Contact Section
-- Centered layout
-- Title and description
-- Email link with hover underline animation
-- Social links:
+### 8. Bagian Kontak
+- Layout di tengah
+- Judul dan deskripsi
+- Link email dengan animasi underline hover
+- Link sosial:
   - GitHub (@Ikyletwar)
   - TikTok (@ikyletwar)
   - Instagram (@ikyletwar)
 
 ### 9. Footer
-- Copyright text
-- Philosophy tagline
+- Teks hak cipta
+- Tagline filosofi
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Memulai
 
-### Prerequisites
+### Prasyarat
 
-This is a static website with no build process required. You only need:
+Ini adalah website statis tanpa build process. Anda hanya butuh:
 
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- A text editor (optional, for customization)
+- Browser modern (Chrome, Firefox, Safari, Edge)
+- Text editor (opsional, untuk kustomisasi)
 
-### Installation
+### Instalasi
 
-1. **Clone or download** this repository:
+1. **Clone atau download** repository ini:
    ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/Ikyletwar/Personal-Website.git
+   cd Personal-Website
    ```
 
-2. **Open the file** in your browser:
+2. **Buka file** di browser Anda:
    ```bash
-   # On Windows
+   # Di Windows
    start index.html
 
-   # On macOS
+   # Di macOS
    open index.html
 
-   # On Linux
+   # Di Linux
    xdg-open index.html
    ```
 
-3. **Or use a local server** (recommended):
+3. **Atau gunakan local server** (direkomendasikan):
    ```bash
-   # Using Python 3
+   # Menggunakan Python 3
    python -m http.server 8000
 
-   # Using Node.js (npx)
+   # Menggunakan Node.js (npx)
    npx serve
 
-   # Using PHP
+   # Menggunakan PHP
    php -S localhost:8000
    ```
 
-4. **Navigate to** `http://localhost:8000` in your browser
+4. **Buka** `http://localhost:8000` di browser Anda
 
 ---
 
-## 📁 File Structure
+## 📁 Struktur File
 
 ```
-project-root/
+root-proyek/
 │
-├── index.html          # Main HTML file (contains all CSS and JS)
-└── README.md           # This documentation file
+├── index.html          # File HTML utama (berisi semua CSS dan JS)
+├── README.md           # File dokumentasi ini
+└── .git/               # Direktori Git
 ```
 
-### Inside index.html
+### Di dalam index.html
 
 ```
 index.html
@@ -328,39 +329,39 @@ index.html
 ├── <head>
 │   ├── Meta tags
 │   ├── Title
-│   ├── Google Fonts links
-│   └── <style> (CSS - ~1,400 lines)
-│       ├── CSS Custom Properties
+│   ├── Link Google Fonts
+│   └── <style> (CSS - ~1.400 baris)
+│       ├── Custom Properties CSS
 │       ├── Reset & Base Styles
-│       ├── Background Effects
-│       ├── Navigation Styles
-│       ├── Section Styles
-│       ├── Component Styles
-│       ├── Animation Classes
-│       └── Responsive Media Queries
+│       ├── Efek Latar Belakang
+│       ├── Style Navigasi
+│       ├── Style Bagian
+│       ├── Style Komponen
+│       ├── Kelas Animasi
+│       └── Media Queries Responsif
 │
 ├── <body>
-│   ├── Background elements (gradient, noise)
-│   ├── Content wrapper
-│   │   ├── Navigation
-│   │   ├── Main content
-│   │   │   ├── Hero Section
-│   │   │   ├── Bio Section
-│   │   │   ├── Philosophy Section
-│   │   │   ├── Projects Section
-│   │   │   ├── Tools Section
-│   │   │   ├── Inspiration Section
-│   │   │   └── Contact Section
+│   ├── Elemen latar (gradient, noise)
+│   ├── Wrapper konten
+│   │   ├── Navigasi
+│   │   ├── Konten utama
+│   │   │   ├── Bagian Hero
+│   │   │   ├── Bagian Bio
+│   │   │   ├── Bagian Filosofi
+│   │   │   ├── Bagian Proyek
+│   │   │   ├── Bagian Tools
+│   │   │   ├── Bagian Inspirasi
+│   │   │   └── Bagian Kontak
 │   │   └── Footer
 │   │
-│   └── <script> (JavaScript - ~200 lines)
-│       ├── Variable Initialization
-│       ├── DOMContentLoaded Handler
-│       ├── Mobile Navigation
-│       ├── Scroll Reveal Animation
+│   └── <script> (JavaScript - ~200 baris)
+│       ├── Inisialisasi Variabel
+│       ├── Handler DOMContentLoaded
+│       ├── Navigasi Mobile
+│       ├── Animasi Scroll Reveal
 │       ├── Lazy Loading
-│       ├── Nav Scroll Effect
-│       └── Typewriter Effect
+│       ├── Efek Scroll Nav
+│       └── Efek Mesin Ketik
 │
 └── </body>
 </html>
@@ -368,53 +369,53 @@ index.html
 
 ---
 
-## 🔧 Customization
+## 🔧 Kustomisasi
 
-### Changing Personal Information
+### Mengubah Informasi Pribadi
 
-1. **Name and Title**
-   - Search for "Hizkia Letwar" and replace with your name
-   - Update the `<title>` tag
+1. **Nama dan Judul**
+   - Cari "Hizkia Letwar" dan ganti dengan nama Anda
+   - Update tag `<title>`
 
-2. **Contact Information**
-   - Email: Search for `manggadurian20@gmail.com`
-   - Social links: Update `href` attributes in the social-links section
+2. **Informasi Kontak**
+   - Email: Cari `manggadurian20@gmail.com`
+   - Link sosial: Update atribut `href` di bagian social-links
 
-3. **Bio Content**
-   - Edit paragraphs in the `.bio-content` section
-   - Update details in `.detail-grid`
+3. **Konten Bio**
+   - Edit paragraf di bagian `.bio-content`
+   - Update detail di `.detail-grid`
 
-4. **Projects**
-   - Modify project cards in the projects section
-   - Update featured project information
+4. **Proyek**
+   - Modifikasi kartu proyek di bagian projects
+   - Update informasi featured project
 
-### Changing Colors
+### Mengubah Warna
 
-Edit the CSS custom properties in the `:root` selector:
+Edit custom properties CSS di selector `:root`:
 
 ```css
 :root {
-    --bg: #000000;              /* Change background */
-    --fg: #F5F5F7;              /* Change text color */
-    --accent: rgba(255,255,255,0.04);  /* Change accent color */
+    --bg: #000000;              /* Ubah latar */
+    --fg: #F5F5F7;              /* Ubah warna teks */
+    --accent: rgba(255,255,255,0.04);  /* Ubah warna accent */
 }
 ```
 
-### Changing Typography
+### Mengubah Tipografi
 
-Update the Google Fonts link and font-family:
+Update link Google Fonts dan font-family:
 
 ```html
-<!-- Change this link -->
+<!-- Ubah link ini -->
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-<!-- And update font-family in CSS -->
-font-family: 'Your Font', sans-serif;
+<!-- Dan update font-family di CSS -->
+font-family: 'Font Anda', sans-serif;
 ```
 
-### Modifying Typewriter Texts
+### Memodifikasi Teks Mesin Ketik
 
-Find the `typewriterTexts` array in the JavaScript section:
+Cari array `typewriterTexts` di bagian JavaScript:
 
 ```javascript
 const typewriterTexts = [
@@ -426,11 +427,11 @@ const typewriterTexts = [
 ];
 ```
 
-Replace with your own phrases.
+Ganti dengan frase Anda sendiri.
 
-### Adjusting Animation Speed
+### Menyesuaikan Kecepatan Animasi
 
-Modify the duration variables:
+Modifikasi variabel duration:
 
 ```css
 :root {
@@ -445,18 +446,18 @@ Modify the duration variables:
 
 ## 🌐 Deployment
 
-This is a static website and can be deployed to any static hosting platform.
+Website ini statis dan bisa di-deploy ke platform hosting statis manapun.
 
 ### GitHub Pages
 
-1. Push your code to a GitHub repository
-2. Go to **Settings > Pages**
-3. Select your branch and folder
-4. Your site will be available at `https://username.github.io/repo-name`
+1. Push kode ke repository GitHub
+2. Buka **Settings > Pages**
+3. Pilih branch dan folder Anda
+4. Website akan tersedia di `https://username.github.io/nama-repo`
 
 ### Vercel
 
-1. Install Vercel CLI:
+1. Instal Vercel CLI:
    ```bash
    npm i -g vercel
    ```
@@ -466,142 +467,142 @@ This is a static website and can be deployed to any static hosting platform.
    vercel
    ```
 
-3. Follow the prompts
+3. Ikuti prompt
 
 ### Netlify
 
-1. Drag and drop your project folder to [Netlify Drop](https://app.netlify.com/drop)
-2. Or connect your Git repository for automatic deployments
+1. Drag and drop folder proyek ke [Netlify Drop](https://app.netlify.com/drop)
+2. Atau sambungkan repository Git untuk deployment otomatis
 
-### Manual Hosting
+### Hosting Manual
 
-Simply upload `index.html` to any web server or hosting provider.
-
----
-
-## 🌍 Browser Compatibility
-
-### Supported Browsers
-
-| Browser | Version | Support |
-|---------|---------|---------|
-| Chrome | 80+ | ✅ Full |
-| Firefox | 75+ | ✅ Full |
-| Safari | 13+ | ✅ Full |
-| Edge | 80+ | ✅ Full |
-| Opera | 65+ | ✅ Full |
-| Samsung Internet | 11+ | ✅ Full |
-
-### Feature Support
-
-| Feature | Support | Notes |
-|---------|---------|-------|
-| CSS Custom Properties | ✅ | IE not supported |
-| Flexbox | ✅ | Full support |
-| CSS Grid | ✅ | Full support |
-| Backdrop Filter | ⚠️ | Safari requires `-webkit-` prefix |
-| Intersection Observer | ✅ | Fallback included |
-| Request Animation Frame | ✅ | Full support |
-| Arrow Functions | ✅ | ES6 support required |
-| Template Literals | ✅ | ES6 support required |
-| Const/Let | ✅ | ES6 support required |
-
-### Fallbacks
-
-The code includes fallbacks for:
-- **Reduced motion**: Respects `prefers-reduced-motion`
-- **Older browsers**: Graceful degradation for unsupported features
-- **No JavaScript**: Content remains accessible
+Cukup upload `index.html` ke web server atau penyedia hosting manapun.
 
 ---
 
-## ⚡ Performance
+## 🌍 Kompatibilitas Browser
 
-### Performance Metrics
+### Browser yang Didukung
 
-| Metric | Target | Achievement |
-|--------|--------|-------------|
+| Browser | Versi | Dukungan |
+|---------|-------|----------|
+| Chrome | 80+ | ✅ Penuh |
+| Firefox | 75+ | ✅ Penuh |
+| Safari | 13+ | ✅ Penuh |
+| Edge | 80+ | ✅ Penuh |
+| Opera | 65+ | ✅ Penuh |
+| Samsung Internet | 11+ | ✅ Penuh |
+
+### Dukungan Fitur
+
+| Fitur | Dukungan | Catatan |
+|-------|----------|---------|
+| Custom Properties CSS | ✅ | IE tidak didukung |
+| Flexbox | ✅ | Dukungan penuh |
+| CSS Grid | ✅ | Dukungan penuh |
+| Backdrop Filter | ⚠️ | Safari butuh prefix `-webkit-` |
+| Intersection Observer | ✅ | Fallback disertakan |
+| Request Animation Frame | ✅ | Dukungan penuh |
+| Arrow Functions | ✅ | Butuh dukungan ES6 |
+| Template Literals | ✅ | Butuh dukungan ES6 |
+| Const/Let | ✅ | Butuh dukungan ES6 |
+
+### Fallback
+
+Kode menyertakan fallback untuk:
+- **Reduced motion**: Menghormati `prefers-reduced-motion`
+- **Browser lama**: Degradasi elegan untuk fitur tidak didukung
+- **Tanpa JavaScript**: Konten tetap dapat diakses
+
+---
+
+## ⚡ Performa
+
+### Metrik Performa
+
+| Metrik | Target | Pencapaian |
+|--------|--------|------------|
 | First Contentful Paint | < 1.5s | ✅ |
 | Time to Interactive | < 3s | ✅ |
-| Total Bundle Size | ~50KB | ✅ |
-| External Requests | 1 (fonts) | ✅ |
-| JavaScript Size | ~8KB | ✅ |
-| CSS Size | ~35KB | ✅ |
+| Total Ukuran Bundle | ~50KB | ✅ |
+| Request Eksternal | 1 (font) | ✅ |
+| Ukuran JavaScript | ~8KB | ✅ |
+| Ukuran CSS | ~35KB | ✅ |
 
-### Optimization Techniques
+### Teknik Optimasi
 
-1. **Single File Architecture**
-   - No additional HTTP requests
-   - Faster initial load
+1. **Arsitektur Single File**
+   - Tanpa request HTTP tambahan
+   - Load awal lebih cepat
 
-2. **CSS Optimization**
-   - Custom properties for efficient updates
-   - No unused CSS frameworks
+2. **Optimasi CSS**
+   - Custom properties untuk update efisien
+   - Tanpa framework CSS tidak terpakai
 
-3. **JavaScript Optimization**
-   - Event delegation where possible
-   - Intersection Observer for efficient scroll detection
-   - Request Animation Frame for smooth animations
+3. **Optimasi JavaScript**
+   - Event delegation bila memungkinkan
+   - Intersection Observer untuk deteksi scroll efisien
+   - Request Animation Frame untuk animasi smooth
 
 4. **Lazy Loading**
-   - Sections load only when needed
-   - Reduced initial paint time
+   - Bagian dimuat hanya saat dibutuhkan
+   - Waktu paint awal berkurang
 
-5. **Reduced Motion Support**
-   - Respects user preferences
-   - Better accessibility
+5. **Dukungan Reduced Motion**
+   - Menghormati preferensi pengguna
+   - Aksesibilitas lebih baik
 
 ---
 
-## ♿ Accessibility
+## ♿ Aksesibilitas
 
-### WCAG 2.1 Compliance
+### Kepatuhan WCAG 2.1
 
-| Criteria | Implementation |
-|----------|----------------|
-| **Semantic HTML** | Proper heading hierarchy (h1-h3) |
-| **ARIA Labels** | Navigation, buttons, and links labeled |
-| **Keyboard Navigation** | All interactive elements focusable |
-| **Focus Indicators** | Visible focus styles on all elements |
-| **Color Contrast** | Text meets WCAG AA contrast requirements |
-| **Reduced Motion** | Respects `prefers-reduced-motion` |
-| **Screen Reader** | Compatible with major screen readers |
-| **Language** | `lang="id"` attribute set |
+| Kriteria | Implementasi |
+|----------|--------------|
+| **HTML Semantik** | Hierarki heading proper (h1-h3) |
+| **Label ARIA** | Navigasi, tombol, dan link berlabel |
+| **Navigasi Keyboard** | Semua elemen interaktif dapat difokuskan |
+| **Indikator Fokus** | Style fokus terlihat pada semua elemen |
+| **Kontras Warna** | Teks memenuhi persyaratan kontras WCAG AA |
+| **Reduced Motion** | Menghormati `prefers-reduced-motion` |
+| **Screen Reader** | Kompatibel dengan screen reader utama |
+| **Bahasa** | Atribut `lang="id"` diatur |
 
-### ARIA Implementation
+### Implementasi ARIA
 
 ```html
-<!-- Navigation -->
+<!-- Navigasi -->
 <nav class="nav" role="navigation" aria-label="Navigasi utama">
     <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
     <!-- ... -->
     </button>
 </nav>
 
-<!-- Social Links -->
+<!-- Link Sosial -->
 <a href="..." class="social-link" aria-label="GitHub">
 ```
 
-### Keyboard Navigation
+### Navigasi Keyboard
 
-- `Tab` - Navigate through interactive elements
-- `Enter` - Activate links and buttons
-- `Space` - Toggle mobile menu
-- `Escape` - Close mobile menu
+- `Tab` - Navigasi melalui elemen interaktif
+- `Enter` - Aktifkan link dan tombol
+- `Spasi` - Toggle menu mobile
+- `Escape` - Tutup menu mobile
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Penulis
 
 **Hizkia Letwar**
 
 - 📍 Maluku Tengah, Indonesia
-- 🎓 Student at SMK Negeri 1 Maluku Tengah
-- 💼 OSIS IT Department Member
-- 🎯 Focus: AI Engineering, Web Development
+- 🎓 Siswa di SMK Negeri 1 Maluku Tengah
+- 💼 Anggota OSIS Bidang IT
+- 🎯 Fokus: AI Engineering, Web Development
 - 📧 Email: [manggadurian20@gmail.com](mailto:manggadurian20@gmail.com)
 
-### Connect
+### Terhubung
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40Ikyletwar-181717?style=for-the-badge&logo=github)](https://github.com/Ikyletwar)
 [![Instagram](https://img.shields.io/badge/Instagram-%40ikyletwar-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ikyletwar/)
@@ -609,9 +610,9 @@ The code includes fallbacks for:
 
 ---
 
-## 📄 License
+## 📄 Lisensi
 
-This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
+Proyek ini open source dan tersedia di bawah [Lisensi MIT](https://opensource.org/licenses/MIT).
 
 ```
 MIT License
@@ -639,37 +640,37 @@ SOFTWARE.
 
 ---
 
-## 🙏 Acknowledgments
+## 🙏 Ucapan Terima Kasih
 
-- **Pak Bahy** — Teacher, programmer, and AI enthusiast who inspired the journey into vibe coding
-- **Google Fonts** — For the beautiful Inter font family
-- **Vibe Coding Community** — For pushing the boundaries of AI-assisted development
+- **Pak Bahy** — Guru Bahasa Inggris, programmer, dan AI enthusiast yang menginspirasi perjalanan ke dunia programming dan vibe coding
+- **Google Fonts** — Untuk font family Inter yang indah
+- **Komunitas Vibe Coding** — Untuk mendorong batas-batas pengembangan berbantuan AI
 
 ---
 
-## 📝 Notes
+## 📝 Catatan
 
-### What is Vibe Coding?
+### Apa itu Vibe Coding?
 
-**Vibe Coding** is an AI-assisted development approach where:
-- Natural language prompts are used to generate code
-- Focus is on creativity and problem-solving rather than syntax
-- AI tools like Trae AI, ChatGPT, and Qwen are used as coding partners
-- Rapid prototyping and iteration are possible
+**Vibe Coding** adalah pendekatan pengembangan berbantuan AI di mana:
+- Prompt bahasa alami digunakan untuk menghasilkan kode
+- Fokus pada kreativitas dan pemecahan masalah, bukan sintaks
+- Tools AI seperti Trae AI, ChatGPT, dan Qwen digunakan sebagai partner coding
+- Prototyping dan iterasi cepat memungkinkan
 
-### Tools Used in Development
+### Tools yang Digunakan dalam Development
 
-This website was built using:
-- **Trae AI** — AI-powered code generation
-- **Qwen Code CLI** — Command-line AI assistant
-- **ChatGPT** — General purpose AI assistance
-- **Gemini** — Google's AI assistant
+Website ini dibangun menggunakan:
+- **Trae AI** — Generasi kode bertenaga AI
+- **Qwen Code CLI** — Asisten AI command-line
+- **ChatGPT** — Bantuan AI tujuan umum
+- **Gemini** — Asisten AI Google
 
 ---
 
 <div align="center">
 
-**Built with ❤️ and AI by Hizkia Letwar**
+**Dibangun dengan ❤️ dan AI oleh Hizkia Letwar**
 
 *"Elegance Is My Philosophy"*
 
